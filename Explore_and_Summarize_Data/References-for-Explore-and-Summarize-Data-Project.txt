@@ -1,0 +1,7 @@
+References for Explore and Summarize Data Project
+. https://stackoverflow.com/
+. https://www.rdocumentation.org
+. http://ggplot2.tidyverse.org/reference/
+. https://plot.ly/r/
+. https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html
+. https://onlinecourses.science.psu.edu/stat857/node/223
