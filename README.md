@@ -11,7 +11,7 @@ I learnt using python packages (i.e. pandas, numpy, scipy, sklearn), R, tableau 
 
 ## Projects
 
-* [Investigate Titanic Dataset](https://github.com/pinghsuan/data-analyst-nanodegree/tree/master/Investigate_Titanic_Dataset)(using Pandas, NumPy)
+* [Investigate Titanic Dataset](https://github.com/pinghsuan/data-analyst-nanodegree/tree/master/Investigate_Titanic_Dataset) (using Pandas, NumPy)
 * [Wrangle OpenStreetMap Data](https://github.com/pinghsuan/data-analyst-nanodegree/tree/master/Wrangle_OpenStreetMap_Data)
 * [Explore and Summarize Data for White Wine Quality](https://github.com/pinghsuan/data-analyst-nanodegree/tree/master/Explore_and_Summarize_Data) (using R)
 * [Test a Perceptual Phenomenon](https://github.com/pinghsuan/data-analyst-nanodegree/tree/master/Test_a_Perceptual_Phenomenon)
