@@ -16,7 +16,7 @@ I learnt using python packages (i.e. pandas, numpy, scipy, sklearn), R, tableau 
 * [Explore and Summarize Data for White Wine Quality](https://github.com/pinghsuan/data-analyst-nanodegree/tree/master/Explore_and_Summarize_Data) (using R)
 * [Test a Perceptual Phenomenon](https://github.com/pinghsuan/data-analyst-nanodegree/tree/master/Test_a_Perceptual_Phenomenon)
 * [Identify Fraud from Enron Email](https://github.com/pinghsuan/data-analyst-nanodegree/tree/master/Identify_Fraud_from_Enron_Email)
-* [Create a Tableau Story - PISA Data Analysis (using Tableau, Pandas)](https://github.com/pinghsuan/data-analyst-nanodegree/tree/master/PISA_Data_Analysis)
+* [Create a Tableau Story - PISA Data Analysis](https://github.com/pinghsuan/data-analyst-nanodegree/tree/master/PISA_Data_Analysis)  (using Tableau, Pandas)
 
 
 ## Curriculum
