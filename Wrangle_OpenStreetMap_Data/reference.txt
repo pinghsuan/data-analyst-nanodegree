@@ -1,0 +1,9 @@
+Reference
+
+- [Udacity DAND forum - Data Wrangling](https://discussions.udacity.com/c/nd002-data-wrangling)
+- [Stackoverflow](https://stackoverflow.com)
+- [csv Package Documentation](https://docs.python.org/2/library/csv.html)
+- [SQLite Documentation](https://sqlite.org/docs.html)
+- [xml.etree.ElementTree Documentation](https://docs.python.org/2/library/xml.etree.elementtree.html)
+- [Convert File Sizes in Python](https://stackoverflow.com/questions/5194057/better-way-to-convert-file-sizes-in-python)
+- [SQLite Module in Python](http://www.bogotobogo.com/python/python_sqlite_connect_create_drop_table.php)

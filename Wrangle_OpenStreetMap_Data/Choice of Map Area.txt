@@ -1,0 +1,8 @@
+Choice of Map Area
+
+San Francisco, in northern California, is a hilly city on the tip of a peninsula surrounded by the Pacific Ocean and San Francisco Bay. It's known for its year-round fog, iconic Golden Gate Bridge, cable cars and colorful Victorian houses. The Financial District's Transamerica Pyramid is its most distinctive skyscraper. In the bay sits Alcatraz Island, site of the notorious former prison. (https://goo.gl/PWSfft)
+
+I choose San Francisco as the area for this project because I was planning a trip to this city, so it would be a great chance for me to explore the city while I prepare for my visit.
+
+Link to San Francisco metro extract:
+https://mapzen.com/data/metro-extracts/metro/san-francisco_california/
